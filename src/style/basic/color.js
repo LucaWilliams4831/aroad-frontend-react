@@ -1,0 +1,9 @@
+export const primary = '#31373E';
+export const secondary = '#545F70';
+export const accent = '#E3E150';
+export const heading = '#000000';
+export const body = '#343434';
+export const link = '#D4BA65';
+export const hover = '#FFFE92';
+export const lightGray = '#F6F6F6';
+export const gray = '#CBCBCB';
